@@ -1,0 +1,2 @@
+model_checkpoint_path: "dueling_DQN_moutaincar.ckpt"
+all_model_checkpoint_paths: "dueling_DQN_moutaincar.ckpt"

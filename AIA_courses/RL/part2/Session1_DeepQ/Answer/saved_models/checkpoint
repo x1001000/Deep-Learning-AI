@@ -1,0 +1,2 @@
+model_checkpoint_path: "mountain_car_deepq.ckpt"
+all_model_checkpoint_paths: "mountain_car_deepq.ckpt"
