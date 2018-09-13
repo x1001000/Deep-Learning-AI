@@ -13,6 +13,7 @@
 - https://github.com/hindupuravinash/the-gan-zoo
 - https://github.com/nashory/gans-awesome-applications
 ## DCGAN
+- https://ithelp.ithome.com.tw/articles/10196257
 - http://bamos.github.io/2016/08/09/deep-completion/
 - https://github.com/bamos/dcgan-completion.tensorflow
 - https://github.com/siddharthbhatnagar/image-completion-using-GANs
