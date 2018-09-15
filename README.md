@@ -5,6 +5,7 @@
 - https://introtodeeplearning.com
 - https://www.deeplearning.ai
 ## youtube
+- https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 - https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
 - https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp
 ## blog
