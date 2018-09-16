@@ -5,6 +5,7 @@
 - https://ai.google
 - https://introtodeeplearning.com
 - https://www.deeplearning.ai
+- https://course.elementsofai.com
 ## youtube
 - https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 - https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
