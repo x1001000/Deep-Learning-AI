@@ -1,5 +1,6 @@
 ## course
 - https://www.theschool.ai
+- https://github.com/llSourcell
 - https://www.kaggle.com/learn
 - https://developers.google.com/machine-learning
 - https://ai.google
