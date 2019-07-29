@@ -19,3 +19,4 @@
 - http://www.asimovinstitute.org/neural-network-zoo/
 - https://hk.saowen.com/a/b8d1f60466ccd8f91f4957e89ab79c30092b54137f23597a25b3815a22524a60
 - https://data-sci.info/2017/09/21/2017-imagenet-classfication-冠軍：squeeze-excitation-networks/
+- https://www.facebook.com/notes/資料科學小嫩嫩/ml1-dlml-and-basic-ml100days-分類整理/1160952254057319/
