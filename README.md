@@ -15,6 +15,7 @@
 - https://medium.com/@yehjames
 - https://www.machinelearningisfun.com
 - https://brohrer.mcknote.com/zh-Hant/
+- https://datawhalechina.github.io/leeml-notes/#/
 - https://adventuresinmachinelearning.com
 - http://www.asimovinstitute.org/neural-network-zoo/
 - https://hk.saowen.com/a/b8d1f60466ccd8f91f4957e89ab79c30092b54137f23597a25b3815a22524a60
